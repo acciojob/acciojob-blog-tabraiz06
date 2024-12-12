@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.flex{
+	display:flex;
+	flex-direction:column;
+	section{
+		display:flex;
+		flex-direction:column;
+	}
+	img{
+		height:200px;
+	}
+	
+}
